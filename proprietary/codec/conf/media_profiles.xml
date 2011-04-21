@@ -66,8 +66,10 @@
         minSampleRate="8000" maxSampleRate="8000"
         minChannels="1" maxChannels="1" />
 
+    <!--
     <AudioEncoderCap name="mp3" enabled="true"
         minBitRate="32000" maxBitRate="320000"
         minSampleRate="32000" maxSampleRate="48000"
         minChannels="1" maxChannels="1" />
+    -->
 </MediaSettings>
